@@ -49,6 +49,7 @@ Technologies utilisées
 JavaScript
 Node.js
 Module natif node:readline
-Auteur
 
+Auteur
+classe umbuntu
 Projet d'apprentissage JavaScript.

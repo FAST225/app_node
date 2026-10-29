@@ -20,7 +20,7 @@ Installation
 Télécharge ou clone le projet.
 Ouvre un terminal dans le dossier du projet.
 Vérifie que Node.js est installé avec la commande suivante :
-bash
+
 node -v
 
 Utilisation
